@@ -1,0 +1,18 @@
+  [1m[35m (1.0ms)[0m  [1m[35mCREATE DATABASE "ecommerce_api_development" ENCODING = 'unicode'[0m
+  [1m[35m (0.2ms)[0m  [1m[35mCREATE DATABASE "ecommerce_api_development" ENCODING = 'unicode'[0m
+  [1m[35m (1342.9ms)[0m  [1m[35mCREATE DATABASE "ecommerce_api_development" ENCODING = 'unicode'[0m
+  [1m[35m (919.7ms)[0m  [1m[35mCREATE DATABASE "ecommerce_api_test" ENCODING = 'unicode'[0m
+ActionMailer::Base#mail: processed outbound mail in 10.7ms
+ActionMailer::Base#mail: processed outbound mail in 34.6ms
+Delivered mail 669578c31f467_2f46eec49894@EduHome.mail (281.9ms)
+Date: Mon, 15 Jul 2024 16:30:11 -0300
+From: anyone@teste.com
+To: teste@teste.com
+Message-ID: <669578c31f467_2f46eec49894@EduHome.mail>
+Subject: teste
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+;:)
