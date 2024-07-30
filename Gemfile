@@ -13,8 +13,8 @@ gem 'bootsnap', '>= 1.4.2', require: false
 
 # Auth
 
-gem 'devise_token_auth', '~> 1.1.4'
-
+gem 'devise'
+gem 'devise_token_auth'
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
 end
