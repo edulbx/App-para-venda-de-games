@@ -4,6 +4,7 @@ Rails.application.routes.draw do
   #devise-for :sessions
   namespace :admin do
     namespace :v1 do
+      get "home" => "home#index"
     end
   end
 
